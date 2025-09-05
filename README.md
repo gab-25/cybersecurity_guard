@@ -15,7 +15,8 @@ DeepGuard Inc., un'azienda leader nel settore della sicurezza informatica per le
 **Obiettivi del Progetto:**
 - **Algoritmo SARSA:** Utilizzare SARSA per affrontare scenari di "random attack" nell'ambiente gym-idsgame.
 - **Algoritmo DDQN:** Implementare Double Deep Q-Network (DDQN) con PyTorch per risolvere scenari di "random attack" e "maximal attack".
-- **Deliverable:** Il progetto richiede la consegna di un notebook Google Colab suddiviso in due sezioni principali, ciascuna dedicata a uno dei due algoritmi di Reinforcement Learning. Ogni sezione dovrà contenere spiegazioni dettagliate delle soluzioni proposte, motivando le scelte effettuate e analizzando i risultati ottenuti.
+
+**Deliverable:** Il progetto richiede la consegna di un notebook Google Colab suddiviso in due sezioni principali, ciascuna dedicata a uno dei due algoritmi di Reinforcement Learning. Ogni sezione dovrà contenere spiegazioni dettagliate delle soluzioni proposte, motivando le scelte effettuate e analizzando i risultati ottenuti.
 
 **Motivazione del Progetto:** GreenGuard Solutions pone la massima priorità sulla sicurezza informatica nel settore sanitario. L'utilizzo di algoritmi avanzati di Reinforcement Learning per simulare e mitigare rischi cibernetici consente all'azienda di rafforzare le sue capacità difensive e proteggere le reti di computer contro attacchi sempre più sofisticati. Automatizzando la simulazione di attacchi, GreenGuard ottimizza l'efficienza operativa e si conferma come leader nell'innovazione tecnologica per la sicurezza informatica nel settore sanitario.
 
